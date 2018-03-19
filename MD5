@@ -1,0 +1,14 @@
+c4198743175146729a79c77ac3572cde *ChangeLog
+b31a88ccd860aee58d6063befe2986fa *DESCRIPTION
+5386f4ae910ea52552a08cefa6a11368 *NAMESPACE
+572b49784b226c974b06bef4b32ec31a *R/hyph.en-data.R
+7fe4184dc58a8716f01d7f76ef44fd96 *R/hyph.support-en.R
+5ceee75c4ca764b278ca85a10d0b2ebb *R/sylly.en-package.R
+aad34d0427e5ffad7319f5eed67b3197 *README.md
+7dcbb8f9b343eba22be20ececf1fe734 *data/hyph.en.rda
+db5aaf6b200ed26cbcb8f22eb208f59c *data/hyph.en.us.rda
+4338a3de57dd51fb1081687eb795568a *inst/CITATION
+b503e2be7ef096e6c1ae116047c325bf *inst/NEWS.Rd
+a9369c62040f7c82c3dbda17949c01d0 *man/hyph.en.Rd
+64710b86c9503fff74d660454aaa7a66 *man/hyph.support.en.Rd
+36604819ad0ebb050cb8bbb9fbfc25fc *man/sylly.en-package.Rd

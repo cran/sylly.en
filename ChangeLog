@@ -1,0 +1,19 @@
+ChangeLog for package sylly.en
+
+changes in version 0.1-3 (2018-03-19)
+changed:
+  - removed \dontrun{} from exmple
+  - updated README.md
+
+changes in version 0.1-2 (2017-10-02)
+changed:
+  - initial release via l10n repo
+  - changed respective references and URLs accordingly
+
+changes in version 0.1-1 (2017-06-10)
+changed:
+  - initial public release
+old:
+  - hyph.en was completely replaced by a custom built pattern set in koRpus
+    0.04-17
+
